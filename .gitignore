@@ -1,0 +1,4 @@
+echo "node_modules/" >> .gitignore
+echo ".terraform/" >> .gitignore
+echo "*.log" >> .gitignore
+echo "venv/" >> .gitignore
